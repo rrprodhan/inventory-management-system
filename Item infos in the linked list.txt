@@ -1,0 +1,83 @@
+Samsung Galaxy S9
+Mobile
+100
+80000
+ViewSonic
+Monitor
+50
+5450
+HPV194
+Monitor
+20
+5500
+HP22ES
+Monitor
+40
+10100
+Xiaomi Mi A1
+Mobile
+100
+23490
+OnePlus X
+Mobile
+100
+22500
+I-lIFE ZED
+Laptop
+20
+16500
+LENOVO IP110S
+Laptop
+40
+22000
+Asus S15
+Laptop
+50
+44800
+HP OMEN
+Laptop
+5
+172000
+HP D1112
+Printer
+50
+2500
+Canon LBP
+Printer
+60
+9300
+HPM706N
+Printer
+10
+70000
+Canon 1200D
+DSLR
+40
+29000
+Nikon D5300
+DSLR
+30
+43000
+Nikon D7200
+DSLR
+12
+87500
+Toshiba HDTP210
+HDD
+60
+4650
+Apacer AC730
+HDD
+60
+6900
+Transcend TS256
+SSD
+40
+7900
+Plextor M8
+SSD
+60
+17400
+
+
+

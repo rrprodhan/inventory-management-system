@@ -1,0 +1,51 @@
+Samsung Galaxy S9
+Mobile
+22
+1760000
+ViewSonic
+Monitor
+2
+10900
+HPV194
+Monitor
+1
+5500
+HP22ES
+Monitor
+6
+60600
+Xiaomi Mi A1
+Mobile
+20
+469800
+OnePlus X
+Mobile
+5
+112500
+LENOVO IP110S
+Laptop
+10
+220000
+HP OMEN
+Laptop
+1
+172000
+Canon LBP
+Printer
+7
+65100
+Nikon D5300
+DSLR
+1
+43000
+Nikon D7200
+DSLR
+5
+437500
+Plextor M8
+SSD
+2
+34800
+
+
+
